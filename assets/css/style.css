@@ -481,6 +481,11 @@ img{
 .skills__html{
 	width: 90%;
 }
+
+.skills__highest{
+	width: 90%;
+}
+
 .skills__js{
     width: 60%;
 }
